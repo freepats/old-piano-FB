@@ -1,0 +1,115 @@
+//+ Name: Piano FB (small)
+//+ Date: 2020-04-01
+//+ URL: http://freepats.zenvoid.org/Piano/honky-tonk-piano.html#PianoFB
+
+<global>
+ //+ Instrument: Piano FB
+ ampeg_release=0.9
+
+<group>
+ loop_mode=no_loop
+<region>
+ lokey=19 hikey=22
+ pitch_keycenter=21
+ sample=samples/small/A0.flac
+<region>
+ lokey=23 hikey=27
+ pitch_keycenter=24
+ tune=-10
+ sample=samples/small/C1.flac
+<region>
+ lokey=28 hikey=31
+ pitch_keycenter=30
+ sample=samples/small/F#1.flac
+<region>
+ lokey=32 hikey=35
+ pitch_keycenter=33
+ tune=-4
+ sample=samples/small/A1.flac
+<region>
+ lokey=36 hikey=39
+ pitch_keycenter=38
+ tune=-5
+ sample=samples/small/D2.flac
+<region>
+ lokey=40 hikey=43
+ pitch_keycenter=41
+ tune=-8
+ sample=samples/small/F2.flac
+<region>
+ lokey=44 hikey=50
+ pitch_keycenter=47
+ tune=-25
+ sample=samples/small/B2.flac
+<region>
+ lokey=51 hikey=55
+ pitch_keycenter=54
+ tune=-8
+ sample=samples/small/F#3.flac
+<region>
+ lokey=56 hikey=58
+ pitch_keycenter=57
+ tune=-18
+ sample=samples/small/A3.flac
+<region>
+ lokey=59 hikey=62
+ pitch_keycenter=60
+ tune=-9
+ sample=samples/small/C4.flac
+<region>
+ lokey=63 hikey=67
+ pitch_keycenter=64
+ tune=-10
+ sample=samples/small/E4.flac
+<region>
+ lokey=68 hikey=71
+ pitch_keycenter=71
+ sample=samples/small/B4.flac
+<region>
+ lokey=72 hikey=75
+ pitch_keycenter=73
+ sample=samples/small/C#5.flac
+<region>
+ lokey=76 hikey=79
+ pitch_keycenter=77
+ tune=5
+ sample=samples/small/F5.flac
+<region>
+ lokey=80 hikey=83
+ pitch_keycenter=82
+ sample=samples/small/A#5.flac
+<region>
+ lokey=84 hikey=86
+ pitch_keycenter=84
+ sample=samples/small/C6.flac
+<region>
+ lokey=87 hikey=89
+ pitch_keycenter=88
+ tune=10
+ sample=samples/small/E6.flac
+<region>
+ lokey=90 hikey=92
+ pitch_keycenter=91
+ tune=4
+ sample=samples/small/G6.flac
+<region>
+ lokey=93 hikey=94
+ pitch_keycenter=93
+ tune=4
+ sample=samples/small/A6.flac
+<region>
+ lokey=95 hikey=97
+ pitch_keycenter=96
+ sample=samples/small/C7.flac
+<region>
+ lokey=98 hikey=99
+ pitch_keycenter=98
+ sample=samples/small/D7.flac
+<region>
+ lokey=100 hikey=103
+ pitch_keycenter=101
+ sample=samples/small/F7.flac
+<region>
+ lokey=104 hikey=108
+ pitch_keycenter=105
+ sample=samples/small/A7.flac
